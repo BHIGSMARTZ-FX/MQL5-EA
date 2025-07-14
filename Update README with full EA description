@@ -1,0 +1,38 @@
+# MQL5-EA
+
+A simple Moving Average Expert Advisor built in MQL5.
+
+## 📈 Strategy
+This EA uses a basic Moving Average crossover strategy to enter and exit trades:
+- **Buy** when Fast MA crosses above Slow MA.
+- **Sell** when Fast MA crosses below Slow MA.
+
+## ⚙️ Inputs
+- `LotSize`: 0.1
+- `StopLoss`: 100 pips
+- `TakeProfit`: 200 pips
+- `FastMA`: 12
+- `SlowMA`: 26
+- `Timeframe`: Current chart
+
+## 💡 Notes
+- Built for **educational/demo** purposes.
+- Can be expanded with:
+  - Trailing stop
+  - Break-even logic
+  - Multi-timeframe filters
+
+## 👤 Author
+Developed by [BHIGSMARTZ-FX](https://github.com/BHIGSMARTZ-FX)  
+Contact: Telegram | GitHub | Portfolio
+
+---
+
+This README will impress clients or job posters and helps you stand out 💼
+
+---
+
+Let me know if you want me to:
+- Upload your `.mq5` file next
+- Build your **GitHub Pages portfolio**
+- Or write a **proposal for those EA jobs**
