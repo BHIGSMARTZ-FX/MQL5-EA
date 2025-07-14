@@ -22,17 +22,5 @@ This EA uses a basic Moving Average crossover strategy to enter and exit trades:
   - Break-even logic
   - Multi-timeframe filters
 
-## 👤 Author
-Developed by [BHIGSMARTZ-FX](https://github.com/BHIGSMARTZ-FX)  
-Contact: Telegram | GitHub | Portfolio
 
----
-
-This README will impress clients or job posters and helps you stand out 💼
-
----
-
-Let me know if you want me to:
-- Upload your `.mq5` file next
-- Build your **GitHub Pages portfolio**
-- Or write a **proposal for those EA jobs**
+🔗 [Download SimpleMACross.mq5](https://github.com/BHIGSMARTZ-FX/mql5-ea/raw/main/SimpleMACross.mq5)
